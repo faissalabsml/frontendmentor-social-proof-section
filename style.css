@@ -187,4 +187,12 @@ body {
   margin-top: 7rem;
   text-align: center;
 }
+
+.attribution a,
+.attribution a:active,
+.attribution a:visited {
+  color: #502050;
+  font-weight: 700;
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */

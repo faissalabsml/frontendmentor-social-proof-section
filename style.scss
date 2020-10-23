@@ -188,4 +188,12 @@ body {
 .attribution {
   margin-top: 7rem;
   text-align: center;
+
+  a,  
+  a:active,
+  a:visited {
+    color: $magenta-dark;
+    font-weight: 700;
+    text-decoration: none;
+  }
 }
